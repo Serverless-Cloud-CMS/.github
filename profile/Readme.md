@@ -14,6 +14,11 @@ The book walks you through mapping a traditional LAMP(Linux, Apache, MySQL and P
 ## Book Labs
 The labs are fully deployable and provide the general approach and could be used to spin up a fully working Blog site. The code is not necesarily production level and is not the focus of the book.  In fact, the goal is the reader can swap out there approach, such as writing a GoLang Tranformer instead of JavaScript.  JavaScript is common and most readers (especially Web Developers) can understand the code.  
 
+## CMS Editor
+The book labs have an embedded Editor which is a copy of the [cms-editor](https://github.com/Serverless-Cloud-CMS/cms-editor) in this organization that is stand alone. 
+
+The cms-editor was developed using AI agents and other manual coding but as a base experiement with building out apps.  
+
 The book labs commit trees are kept clean to allow the reader to compare Lab8 to Lab9 branches to see what was introduced and changed.  
 
 ## Book or Lab Issues
